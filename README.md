@@ -1,6 +1,5 @@
 # My-work-progress-pr-services- Assignment
 
-# TypeScript Learning Progress
 
 ### Date: March 11, 2025
 
