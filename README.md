@@ -14,42 +14,28 @@ Today, I began understanding key TypeScript concepts, including:
 Resources:
 - W3Schools
 - YouTube
-###========================================================================================
+### ========================================================================================
 
-###Date: March 12, 2025
+### Date: March 12, 2025
 
 Today, I focused on key TypeScript concepts and prepared notes with examples for the following topics:
 
-TypeScript Concepts Covered:
+### TypeScript Concepts Covered:
 
-Simple Types: (e.g., number, string, boolean)
+- **Simple Types**: (e.g., `number`, `string`, `boolean`)
+- **Special Types**: (`any`, `unknown`, `never`, `void`)
+- **Arrays**: Defining arrays using type annotations (e.g., `number[]`, `Array<string>`)
+- **Tuples**: Fixed-length arrays with specific types for each element
+- **Object Types**: Custom object types with properties (e.g., `{ name: string; age: number; }`)
+- **Enums**: Named constants that represent a set of values
+- **Aliases & Interfaces**: Custom types with type aliases and `interface`
+- **Union Types**: Combine multiple types with a single type definition
+- **Functions**: Function types, optional parameters, and default values
+- **Casting**: Type assertions using `as` and angle-bracket syntax
+- **Classes**: Defining classes, inheritance, and access modifiers
+- **Basic Generics**: Creating reusable components using generics
+- **Utility Types**: Predefined types like `Partial`, `Readonly`, `Pick`, etc.
+- **Keyof**: Using `keyof` to create type-safe access to object keys
+- **Null**: Handling `null` and `undefined` in TypeScript
+- **Definitely Typed**: Usage of third-party type definitions
 
-Special Types: (any, unknown, never, void)
-
-Arrays: Defining arrays using type annotations (e.g., number[], Array<string>)
-
-Tuples: Fixed-length arrays with specific types for each element
-
-Object Types: Custom object types with properties (e.g., { name: string; age: number; })
-
-Enums: Named constants that represent a set of values
-
-Aliases & Interfaces: Custom types with type aliases and interface
-
-Union Types: Combine multiple types with a single type definition
-
-Functions: Function types, optional parameters, and default values
-
-Casting: Type assertions using as and angle-bracket syntax
-
-Classes: Defining classes, inheritance, and access modifiers
-
-Basic Generics: Creating reusable components using generics
-
-Utility Types: Predefined types like Partial, Readonly, Pick, etc.
-
-Keyof: Using keyof to create type-safe access to object keys
-
-Null: Handling null and undefined in TypeScript
-
-Definitely Typed: Usage of third-party type definitions
