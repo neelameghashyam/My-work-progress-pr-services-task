@@ -14,7 +14,7 @@ Today, I began understanding key TypeScript concepts, including:
 Resources:
 - W3Schools
 - YouTube
-### ========================================================================================
+### =================================================================
 
 ### Date: March 12, 2025
 
