@@ -43,6 +43,6 @@ Today, I focused on key TypeScript concepts and prepared notes with examples for
 
 ### Date: March 13, 2025
 
-Today, I delved deeper into **TypeScript** by focusing on key concepts that enhance code quality and maintainability. Alongside that, I explored **Angular** to better understand its purpose and grasped its **folder structure**, which is crucial for developing scalable and organized applications. I also took the time to note down some important insights and key points for future reference.
+Today, I completed **TypeScript** tutorial that given Alongside that, I explored **Angular** to better understand its purpose and grasped its **folder structure**, which is crucial for developing scalable and organized applications. I also took the time to note down some important insights and key points for future reference.
 
 
